@@ -1,8 +1,8 @@
 # Sanji's make.fun Tagline
 
-[![make.fun competition](https://make.fun/c/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/competition.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
-[![make.fun rank](https://make.fun/c/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/rank.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
-[![make.fun reward](https://make.fun/c/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/reward.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+[![make.fun · u-boge-one-line-one-week-the-make-fun-tagline-66aca584](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+[![rank](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/yofanprayoga/sanji-tagline/rank.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+[![reward](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/yofanprayoga/sanji-tagline/reward.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
 
 Entry for make.fun's **"One Line, One Week: The make.fun Tagline"** bounty ($3, 10 places, $0 fee).
 
